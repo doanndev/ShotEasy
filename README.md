@@ -7,7 +7,9 @@ ShotEasy Pro is a small React + Vite app for creating framed screenshots with qu
 
 Replace `public/screenshot.png` with a screenshot of the app to make this README visual. When the file exists the image will be displayed below.
 
-![ShotEasy screenshot](/screenshot.png)
+
+![ShotEasy screenshot](public/screenshot.png)
+
 
 > If you don't have a `screenshot.png` yet, add one to the `public/` folder (root of the project). Vite serves files from `public/` at the site root.
 
